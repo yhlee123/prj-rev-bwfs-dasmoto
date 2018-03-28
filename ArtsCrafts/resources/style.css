@@ -1,0 +1,40 @@
+/* banner needs background image */
+
+.banner {
+  font-family: Helvetica;
+  font-size: 50px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("pattern.jpeg");
+}
+
+#item1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#item2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#item3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
